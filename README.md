@@ -1,1 +1,1 @@
-simplpe shell assignment
+simple Shell Group Assignment
